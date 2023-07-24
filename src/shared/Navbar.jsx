@@ -37,9 +37,9 @@ const Navbar = () => {
       </li>
 
       <li>
-        <button className=" bg-green-950 text-white hover:bg-red-500">
-          Logout
-        </button>
+        <Link to='/login' className=" bg-green-950 text-white hover:bg-red-500">
+          Login
+        </Link>
       </li>
     </>
   );
