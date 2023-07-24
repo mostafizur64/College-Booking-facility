@@ -1,0 +1,47 @@
+
+[
+    {
+      "id":1,
+        "name": "BUET",
+      "image": "https://i.ibb.co/cDz7Qb5/download-1.jpg",
+      "rating": "4",
+      "admission_date": "25-07-2023",
+      "events": "Orientation_week",
+      "research_history": {
+        "total_projects": 1200,
+        "total_publications": 3000,
+        "top_research_area": "Artificial Intelligence"
+      },
+      "sports": "Soccer"
+    },
+    {
+        "id":2,
+        "name": "Oxford University",
+        "image": "https://i.ibb.co/FxsmVsF/download.jpg",
+        "rating": "5",
+        "admission_date": "01-09-2023",
+        "events": "Freshers_week",
+        "research_history": {
+          "total_projects": 2000,
+          "total_publications": 5000,
+          "top_research_area": "Quantum Computing"
+        },
+        "sports": "Tennis"
+      },
+      
+      {
+        "id":3,
+        "name": "MIT",
+        "image": "https://i.ibb.co/2cWXLjs/download-2.jpg",
+        "rating": "4.8",
+        "admission_date": "10-08-2023",
+        "events": "Hackathon",
+        "research_history": {
+          "total_projects": 1800,
+          "total_publications": 4000,
+          "top_research_area": "Biotechnology"
+        },
+        "sports": "Basketball"
+      }
+  ]
+
